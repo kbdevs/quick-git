@@ -48,7 +48,7 @@ git push -u origin main
 
 ### `gq` — Quick Add/Commit/Push
 ```zsh
-gq "your commit message here"
+gq your commit message here
 ```
 Runs:
 ```
